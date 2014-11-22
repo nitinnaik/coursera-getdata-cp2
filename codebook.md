@@ -21,7 +21,6 @@ Each activity label was replaced with corresponding activity name from activity_
 
 Column names:
 -------------
-_____________
 1. Subject: 
 	* range of values [1:30]
 	* id of a subject performing ther activity
